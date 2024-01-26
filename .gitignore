@@ -9,7 +9,6 @@ node_modules
 coverage
 
 # builds
-build
 .rpt2_cache
 .eslintcache
 tsconfig.tsbuildinfo
